@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm an aspiring Data Analyst passionate about transforming
 
 I enjoy working with data to uncover trends, identify patterns, measure performance, and answer real-world business questions.
 
-🚀 About Me
+##🚀 About Me
 
 📊 Passionate about Data Analysis and Business Intelligence
 
@@ -19,7 +19,7 @@ I enjoy working with data to uncover trends, identify patterns, measure performa
 
 📚 Continuously learning and building practical data projects
 
-🛠️ Tools & Technologies
+###🛠️ Tools & Technologies
 
 | Data Analysis |
 Microsoft Excel |
@@ -27,7 +27,7 @@ Power BI |
 Data Visualization |
 Excel Charts & Dashboards |
 
-Other Skills
+###Other Skills
 
 | Data Cleaning |
 Exploratory Data Analysis (EDA) |
@@ -36,7 +36,7 @@ Business Analysis |
 Data Visualization |
 Reporting & Dashboards |
 
-📂 Featured Projects
+##📂 Featured Projects
 
 📊 Sales & Business Performance Analysis
 
@@ -58,7 +58,7 @@ Correlation analysis
 
 Tools: Microsoft Excel | Statistics | Data Visualization
 
-📈 What I Can Do With Data
+####📈 What I Can Do With Data
 
 I can use data to answer questions such as:
 
@@ -76,7 +76,7 @@ Do discounts improve business performance?
 
 My goal is to move beyond simply reporting numbers and explain what the numbers mean for the business.
 
-🌱 Currently Learning
+###🌱 Currently Learning
 
 I'm continuously improving my skills in:
 
