@@ -8,10 +8,15 @@ I enjoy working with data to uncover trends, identify patterns, measure performa
 🚀 About Me
 
 📊 Passionate about Data Analysis and Business Intelligence
+
 📈 Interested in turning data into actionable business insights
+
 🧮 Strong interest in Microsoft Excel and statistical analysis
+
 🔍 Currently developing my skills in Power BI, and data visualization
+
 💡 I enjoy solving business problems using data
+
 📚 Continuously learning and building practical data projects
 
 🛠️ Tools & Technologies
